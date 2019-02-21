@@ -129,14 +129,6 @@ than the number of closing parantheses).
 0.26
 ```
 
-**Checking for opengl**
-
-``` python
->>> import OpenGL
->>> print(OpenGL.__version__)
-3.1.0
-```
-
 For each of these packages, the `x.y.z` version should be equal or greater than
 the displayed version. If this is not the case, then maybe you conda
 installation is not up to date. You can upgrade all packages at once using:
