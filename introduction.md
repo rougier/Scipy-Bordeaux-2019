@@ -43,13 +43,13 @@ engineering, and data analysis.
 For this lesson, we'll go for [Anaconda] that is available for several
 architectures:
 
-* [Anaconda for windows](https://www.continuum.io/downloads#_windows)
-* [Anaconda for linux](https://www.continuum.io/downloads#_unix)
-* [Anaconda for OSX](https://www.continuum.io/downloads#_macosx)
+* [Anaconda for windows](https://www.anaconda.com/distribution/#windows)
+* [Anaconda for linux](https://www.anaconda.com/distribution/#macos)
+* [Anaconda for OSX](https://www.anaconda.com/distribution/#linux)
 
 The anaconda comes with a lot of nice features but we won't use them (if you're
 interested, have a look at their
-[starter guide](http://conda.pydata.org/docs/test-drive.html)). Next step is to
+[user guide](https://docs.anaconda.com/anaconda/user-guide/)). Next step is to
 test the installation. To do that, you'll need to open a terminal and type:
 
 ``` bash
@@ -146,7 +146,7 @@ $ conda update --all
 ```
 
 If something goes wrong, you'll have to check on the
-[Anaconda help page](http://conda.pydata.org/docs/help/help.html).
+[Anaconda help page](https://docs.anaconda.com/).
 
 
 Python is a calculator
@@ -1000,7 +1000,7 @@ of Python.
 
 
 <!----------------------------- External links ------------------------------->
-[Anaconda]:   https://www.continuum.io/downloads/
+[Anaconda]:   https://www.anaconda.com
 [Canopy]:     https://enthought.com/products/canopy/
 [Python]:     http://www.python.org
 [Numpy]:      http://www.numpy.org
